@@ -8,7 +8,7 @@ A* is an informed search algorithm, or a best-first search, meaning that it solv
 
 At each iteration of its main loop, A* needs to determine which of its partial paths to expand into one or more longer paths. It does so based on an estimate of the cost (total weight) still to go to the goal node. Specifically, A* selects the path that minimizes
 
-f(n)=g(n)+h(n)} f(n)=g(n)+h(n)
+f(n)=g(n)+h(n)
 
 where n is the last node on the path, g(n) is the cost of the path from the start node to n, and h(n) is a heuristic that estimates the cost of the cheapest path from n to the goal. The heuristic is problem-specific. For the algorithm to find the actual shortest path, the heuristic function must be admissible, meaning that it never overestimates the actual cost to get to the nearest goal node.
 

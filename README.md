@@ -37,14 +37,14 @@ Three Heuristic Functions were used
 	>The sum of tiles placed in the wrong column
 
 
-##States
+## States
 	
 Each diffent state of the puzzle is by an one dimesnional matrix which consists of 15 ints (0.....14)
 0 represents the empty tile
 
 
 
-##Actions
+## Actions
 
 The actions specified  are the ones available for the empty tile
 1 represents the empty tile to be moved up , 2 down ,3 right ,4 left

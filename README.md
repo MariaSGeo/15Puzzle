@@ -39,7 +39,7 @@ Three Heuristic Functions were used
 
 ## States
 	
-Each diffent state of the puzzle is by an one dimesnional matrix which consists of 15 ints (0.....14)
+Each diffent state of the puzzle is represented by a one dimesnional matrix which consists of 15 ints (0.....14)
 0 represents the empty tile
 
 

@@ -1,7 +1,7 @@
 # 15Puzzle
 
 The 15-puzzle is a simple sliding puzzle that consists numbered square tiles(in this case 15) in random order with one tile missing.The object of the puzzle is to place the tiles in order by making sliding moves that use the empty space.
-The solution is based on the search and util files from here : https://github.com/aimacode/aima-python 
+The solution is based on the search and utils files from here : https://github.com/aimacode/aima-python 
 
 ## Use of A* algorithm
 
